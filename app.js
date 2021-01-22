@@ -122,7 +122,7 @@ const humanTile = function(humanInfo) {
 
   // use provided css class names and h3 tags
   newDiv.className = 'grid-item';
-  newDiv.innerHTML = `<h3>${humanInfo.name}</h3><img src='./images/human.png'><p>${humanInfo.name} loves dinosaurs!</p>`;
+  newDiv.innerHTML = `<h3>${humanInfo.name}</h3><img src='./images/human.png'>`;
 
   return newDiv;
 };
