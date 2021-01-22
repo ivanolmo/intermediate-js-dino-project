@@ -50,7 +50,7 @@ DinoConstructor.prototype.compareDiet = function(diet) {
   if (this.diet === diet) {
     fact = 'This dino had the same diet as you!';
   } else {
-    fact = `This dino's diet was ${this.diet}, and you are a ${diet}.`;
+    fact = `This dino's diet was ${this.diet}, and you're a ${diet}.`;
   }
 
   this.facts.push(fact);
