@@ -1,5 +1,8 @@
 # Object Oriented Javascript 
 
+## The project is currently hosted at:
+https://ivanolmo.github.io/intermediate-js-dino-project/
+
 ## Student Instructions
 
 ### Big Picture
